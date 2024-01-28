@@ -6,6 +6,17 @@
 - Data Visualization: PowerBI
 - Domain: Data Analysis and Data Visualization
 
+## Project Snapshots
+
+- **Cyclist Bike Share Analysis Dashboard**
+
+![main dashboard](https://github.com/Shubham301099/Cyclist-Bike-Share-Analysis-/assets/154081009/1c0373a9-71aa-4e5d-ac00-486cbf702c34)
+
+
+- **Project's summary and recommendations**
+
+![summary and recommendations](https://github.com/Shubham301099/Cyclist-Bike-Share-Analysis-/assets/154081009/f48a02ee-ee83-4e75-95dc-1f2f243b87b2)
+
 ## Introduction
 
 In this case study, as a Business analyst at Cyclistic, a bike-share company in Chicago, your role is to analyze and identify trends in Cyclistic's historical trip data. The goal is to understand how casual riders and annual members use Cyclistic bikes differently. Your insights will inform the development of a new marketing strategy to convert casual riders into annual members, backed by compelling data insights and professional data visualizations.
@@ -115,16 +126,6 @@ RETURN
 4. **Refinement:**
 - Special attention has been given to detail during the refinement process of the visualizations. This step involves fine-tuning the visual elements to enhance clarity, coherence, and overall visual appeal. Refining the visualizations contributes to a more impactful presentation of the data insights.
 
-## Project Snapshots
-
-- **Cyclist Bike Share Analysis Dashboard**
-
-![main dashboard](https://github.com/Shubham301099/Cyclist-Bike-Share-Analysis-/assets/154081009/1c0373a9-71aa-4e5d-ac00-486cbf702c34)
-
-
-- **Project's summary and recommendations**
-
-![summary and recommendations](https://github.com/Shubham301099/Cyclist-Bike-Share-Analysis-/assets/154081009/f48a02ee-ee83-4e75-95dc-1f2f243b87b2)
 
 
 ## Approach
@@ -167,5 +168,3 @@ RETURN
 - Optimize bike availability and locations based on high-traffic areas identified in the analysis.
 - Enhance the user experience for casual riders through incentives, such as discounts on annual memberships after a certain number of rides.
 ---
-
-
